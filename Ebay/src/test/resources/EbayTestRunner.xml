@@ -14,9 +14,9 @@
 
     <test name = "Ebay Test Runner">
         <classes>
-            <!--<class name="homepage.Login"/>-->
+            <class name="homepage.Login"/>
             <!--<class name="homepage.Register"/>-->
-            <class name="Search.SearchItems"/>
+            <!--<class name="Search.SearchItems"/>-->
 
 
         </classes>

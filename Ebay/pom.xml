@@ -17,6 +17,9 @@
         <version>1.0-SNAPSHOT</version>
         </dependency>
     </dependencies>
-
+    <properties>
+        <EbayModuleRunner>EbayTestRunner.xml</EbayModuleRunner>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 
 </project>
