@@ -36,14 +36,14 @@
                 <configuration>
                     <redirectTestOutputToFile>true</redirectTestOutputToFile>
                     <suiteXmlFiles>
-                        <suiteXmlFile>target/test-classes/${EbayModuleRunner}</suiteXmlFile>
+                        <suiteXmlFile>target/test-classes/${EbayTestRunner}</suiteXmlFile>
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
         </plugins>
     </build>
     <properties>
-        <EbayModuleRunner>EbayTestRunner.xml</EbayModuleRunner>
+        <EbayTestRunner>EbayTestRunner.xml</EbayTestRunner>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
